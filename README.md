@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tencent/HunyuanDiT/main/asset/logo.png"  height=100>
 </p>
+
 ## Contributor Note
 ## - Implemented DialogGen Inpainting module
 # Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
